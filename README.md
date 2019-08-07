@@ -1,6 +1,6 @@
 # go-powershell
 
-# Original Version https://github.com/40a/go-powershell
+# Forked from https://github.com/40a/go-powershell
 
 [![GoDoc](https://godoc.org/github.com/aquasecurity/go-powershell?status.svg)](https://godoc.org/github.com/aquasecurity/go-powershell)
 
